@@ -27,7 +27,7 @@ verse[24]=["凡事我都可行，但不都有益；凡事我都可行，但无�
 verse[25]=["你们岂不知不义的人不能承受神的国吗？不要自欺，无论是淫乱的、拜偶像的、奸淫的、作娈（luan2）童的、亲男色的、偷窃的、贪婪的、醉酒的、辱骂的、勒索的，都不能承受神的国。","哥林多前书7:9"];
 verse[26]=["人所犯的，无论什么罪，都在身子以外；惟有行淫的，是得罪自己的身子。","哥林多前书7:18"];
 verse[27]=["你们的身子是重价买来的，所以要在你们的身子上荣耀神。","哥林多前书7:20"];
-verse[28]=["食物是为肚腹、肚腹是为食物；但神要叫这两样都废坏。身子不是为淫乱，乃是为主；主也是为身子。","哥林多前书7:13"];
+verse[28]=["食物是为肚腹、肚腹是为食物；但神要叫这两样都废坏。身子不是为淫乱，乃是为主；主也是为身子。","哥林多前书6:13"];
 verse[29]=["凡事都可行，但不都有益处；凡事都可行，但不都造就人。无论何人，不要求自己的益处，乃要求别人的益处。","哥林多前书10：23-24"];
 verse[30]=["恩赐原有分别，圣灵却是一位；职事也有分别，主却是一位；功用也有分别，神却是一位，在众人里面运行一切的事。","哥林多前书12:4-6"];
 verse[31]=["爱是恒久忍耐，又有恩慈；爱是不嫉妒，爱是不自夸，不张狂，不作害羞的事，不求自己的益处，不轻易发怒，不计算人的恶，不喜欢不义，只喜欢真理；凡事包容，凡事相信，凡事盼望，凡事忍耐。","哥林多前书13:4-7"];
@@ -58,6 +58,8 @@ verse[55]=[" As many as I love, I rebuke and chasten: be zealous therefore, and 
 verse[56]=["We are troubled on every side, yet not distressed; we are perplexed, but not in despair;  [9] Persecuted, but not forsaken; cast down, but not destroyed;  [10] Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body. ","2 Corinthians 4:8-10"];
 verse[57]=["Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. ","Romans 13:1"];
 verse[58]=["As for the person who hears my words but does not keep them, I do not judge him. For I did not come to judge the world, but to save it.","John 12:47"];
+verse[59]=["I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.","John 16:33"];
+verse[60]=["He said to them, “Because of your little faith. For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” ","Mathew 17:20"];
 var i = gerRandomNumbers(verse.length);
 
 document.write('<p align="center">'+verse[i][0]+"    "+"----"+verse[i][1]+'</p>');
