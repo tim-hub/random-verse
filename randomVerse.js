@@ -60,6 +60,7 @@ verse[57]=["Let every soul be subject unto the higher powers. For there is no po
 verse[58]=["As for the person who hears my words but does not keep them, I do not judge him. For I did not come to judge the world, but to save it.","John 12:47"];
 verse[59]=["I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.","John 16:33"];
 verse[60]=["He said to them, “Because of your little faith. For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” ","Mathew 17:20"];
+verse[61]=["主耶和华─以色列的圣者曾如此说：你们得救在乎归回安息；你们得力在乎平静安稳；你们竟自不肯。","Isaiah 30:15"];
 var i = gerRandomNumbers(verse.length);
 
 document.write('<p align="center">'+verse[i][0]+"    "+"----"+verse[i][1]+'</p>');
