@@ -61,6 +61,7 @@ verse[58]=["As for the person who hears my words but does not keep them, I do no
 verse[59]=["I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.","John 16:33"];
 verse[60]=["He said to them, “Because of your little faith. For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” ","Mathew 17:20"];
 verse[61]=["主耶和华─以色列的圣者曾如此说：你们得救在乎归回安息；你们得力在乎平静安稳；你们竟自不肯。","Isaiah 30:15"];
+verse[62]=["Do not toil to acquire wealth; be discerning enough to desist. When your eyes light on it, it is gone, for suddenly it sprouts wings, flying like an eagle toward heaven.","Proverbs 23:4-5"];
 var i = gerRandomNumbers(verse.length);
 
 document.write('<p align="center">'+verse[i][0]+"    "+"----"+verse[i][1]+'</p>');
