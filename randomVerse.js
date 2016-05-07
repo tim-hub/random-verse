@@ -65,7 +65,8 @@ verse[62]=["Do not toil to acquire wealth; be discerning enough to desist. When 
 verse[63]=["你心中不要嫉妒罪人，只要终日敬畏耶和华，因为至终必有善报，你的指望也不至断绝。","箴言书 23:17-18"];
 var i = gerRandomNumbers(verse.length);
 
-document.write('<p align="center">'+verse[i][0]+"    "+"----"+verse[i][1]+'</p>');
+document.write('<p align="center">'+verse[i][0]+"    "+"----"+verse[i][1]+'</p>'
+				+'<p align="right"> <a href="https://github.com/tim-hub/random-verse" target="_blank">Random Verse</a> </p>');
 
 function gerRandomNumbers(x) {
 	return Math.floor(Math.random() * x)
