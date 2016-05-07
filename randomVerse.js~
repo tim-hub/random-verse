@@ -66,7 +66,7 @@ verse[63]=["你心中不要嫉妒罪人，只要终日敬畏耶和华，因为�
 var i = gerRandomNumbers(verse.length);
 
 document.write('<p align="center">'+verse[i][0]+"    "+"----"+verse[i][1]+'</p>'
-				+'<p align="right" font-size="1em" > from <a href="https://github.com/tim-hub/random-verse" target="_blank">Random Verse</a> </p>');
+				+'<p align="right" > from <a href="https://github.com/tim-hub/random-verse" target="_blank">Random Verse</a> </p>');
 
 function gerRandomNumbers(x) {
 	return Math.floor(Math.random() * x)
